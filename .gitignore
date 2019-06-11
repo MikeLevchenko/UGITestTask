@@ -1,0 +1,15 @@
+TestTask/Temp/
+TestTask/Packages/
+TestTask/obj/
+TestTask/Logs/
+TestTask/Library/
+TestTask/.vs/
+TestTask/Assembly-CSharp.csproj
+TestTask/TestTask.apk
+TestTask/TestTask.csproj
+TestTask/TestTask.sln
+TestTask/Unity.Analytics.DataPrivacy.csproj
+TestTask/Unity.CollabProxy.Editor.csproj
+TestTask/Unity.PackageManagerUI.Editor.csproj
+TestTask/Unity.TextMeshPro.csproj
+TestTask/Unity.TextMeshPro.Editor.csproj
